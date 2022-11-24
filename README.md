@@ -21,7 +21,7 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: Varsha Ajith
 RegisterNumber:  212221230118
 */
-```
+~~~
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 data.head()
@@ -45,7 +45,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-```
+~~~
 ## Output:
 ## dataframe
 ![ex51](https://user-images.githubusercontent.com/94222288/203816052-61af543e-d600-45bf-9881-7f0f8269725e.png)
