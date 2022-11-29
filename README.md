@@ -54,8 +54,14 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![exp53](https://user-images.githubusercontent.com/94222288/203816204-81bb7ca4-c23b-4b32-8cdf-ac9d8209621a.png)
 ## Label encoder
 ![6d4](https://user-images.githubusercontent.com/94222288/203816373-75e5fd54-4177-40e9-980a-aaea6fdf456d.png)
-## Accuracy
-![6d6](https://user-images.githubusercontent.com/94222288/203816502-41f3aa31-c952-459b-a25f-db433563e100.png)
+Accuracy with entropy:
+![65](https://user-images.githubusercontent.com/94222288/204594652-5cba1bce-3103-4bc4-8e1b-ca9dc3053033.png)
+
+![66](https://user-images.githubusercontent.com/94222288/204594694-d349d232-80ed-4b25-86b1-61718dbfaf7f.png)
+
+![67](https://user-images.githubusercontent.com/94222288/204594716-b1f77dc8-7e57-4e05-92af-ae036a4f73ac.png)
+
+![68](https://user-images.githubusercontent.com/94222288/204594760-368f24bf-c4a5-4f56-8dce-32bac2c4ff3c.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
